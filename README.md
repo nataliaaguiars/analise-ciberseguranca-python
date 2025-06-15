@@ -32,7 +32,7 @@ Como iniciante em cibersegurança, queria construir algo prático, que demonstra
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/analise-ciberseguranca-python.git
+git clone https://github.com/nataliaaguiar/analise-ciberseguranca-python.git
 
 pip install pandas matplotlib seaborn
 
