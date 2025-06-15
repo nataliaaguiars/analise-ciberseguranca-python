@@ -40,13 +40,10 @@ pip install pandas matplotlib seaborn
 3. Clone este repositório:
 Execute o script Python para gerar análises e gráficos.
 
-
-pip install pandas matplotlib seaborn
-
 Esse projeto é meu primeiro passo na área de cibersegurança e análise de dados, e estou empolgada para continuar aprendendo e contribuindo para um mundo digital mais seguro.
 
 Se quiser conhecer o código ou discutir o projeto, fique à vontade para abrir uma issue ou me enviar uma mensagem!
 
 Autora: Natalia Aguiar
-LinkedIn: [https://www.linkedin.com/in/nataliaaguiars/]
-GitHub: [(https://github.com/nataliaaguiars)]
+LinkedIn: https://www.linkedin.com/in/nataliaaguiars/
+GitHub: https://github.com/nataliaaguiars
